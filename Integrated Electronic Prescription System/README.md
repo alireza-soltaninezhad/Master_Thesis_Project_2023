@@ -1,4 +1,4 @@
-# insurance
+# Integrated Electronic Prescription System
 
 A new Flutter project.
 
