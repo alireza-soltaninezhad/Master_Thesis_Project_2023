@@ -1,8 +1,5 @@
-# Master_Thesis_Project_2023
+# Master Project for Computer Science (Software Engineering and Green IT track)
 This repository is created by Alireza Soltani nezhad to share the developed projects for the master thesis at vrije University of Amsterdam.
-
-# Master Project for Computer Science
-## Software Engineering and Green IT track
 
 **Student:** Alireza Soltani Nezhad  
 **Supervisor:** Dr. Anna Bon  
