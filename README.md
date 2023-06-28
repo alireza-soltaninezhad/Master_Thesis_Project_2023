@@ -7,7 +7,7 @@ This repository is created by Alireza Soltani nezhad to share the developed proj
 
 ## Proposed Artifacts
 1. Integrated e_prescription System
-2. Patient centric application for finding rare medicine and tackle the medicine shortage in Iran
+2. Patient centric application for finding rare medicine and tackle the medicine shortage in Iran (Screenshots are available at ![Alt text](Master
 
 ## Used Languages
 Flutter
