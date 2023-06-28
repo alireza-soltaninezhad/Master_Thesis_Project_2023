@@ -9,7 +9,7 @@ This repository is created by Alireza Soltani nezhad to share the developed proj
 1. Integrated e_prescription System
 2. Patient centric application for finding rare medicine and tackle the medicine shortage in Iran (Screenshots are available at [Link to Screenshots](/images)
 
-## Used Languages
+## Used Programming Languages
 Flutter
 
 ## Output Result
